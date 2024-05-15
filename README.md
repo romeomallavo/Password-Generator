@@ -2,23 +2,6 @@
 
 In this project, we will create a password generator using Python. This is a beginner-friendly project that will help you practice your Python skills and potentially learn some new aspects of the language.
 
-
-This project allows you to generate passwords of a specified minimum length
-and includes options to include numbers and special characters.
-
-Skills and Technologies Learned:
-1. Python Basics: Functions, conditionals, loops, and user input handling.
-2. String Manipulation: Using the string module to handle characters, digits, and punctuation.
-3. Random Module: Generating random choices from a sequence.
-4. User Input: Handling and converting user input.
-5. Boolean Logic: Conditional checks and boolean operations.
-
-References:
-- Python random module: https://docs.python.org/3/library/random.html
-- Python string module: https://docs.python.org/3/library/string.html
-- Visual Studio Code: https://code.visualstudio.com/
-"""
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project Overview](#project-overview)
